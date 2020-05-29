@@ -1,0 +1,12 @@
+Whiteboard:
+
+function isLoop = (linkedlist) = {}
+One arg= linkedList
+returns true/false
+
+Edge case: 
+Linkedlist with no nodes. - Should return false;
+
+Possible questions:
+Doubly or singly linkedlist;
+

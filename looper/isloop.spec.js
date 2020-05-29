@@ -5,7 +5,7 @@ const isLoop = require('./isloop');
 
 const numbers = [1,2,3,4,5,6,7,8,9,10];
 const letters = ['a','b','c','d','e','f','g','h','i'];
-const emojis = ['🥚','🐣','🦅 ', '👾'];
+const emojis = ['🥚','🐣','🦅', '👾'];
 
 
 //These LLs have loops!
@@ -36,3 +36,4 @@ describe('isLoop function', () => {
 		expect(isLoop(test3)).to.equal(false);
 	});
 });
+
